@@ -1,7 +1,8 @@
 # requirements.txt
-streamlit
-pandas
-numpy
-scikit-learn
-yfinance
-joblib
+
+streamlit==1.35.0
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.4.2
+yfinance==0.2.37
+joblib==1.4.2
